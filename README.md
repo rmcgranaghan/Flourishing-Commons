@@ -4,7 +4,7 @@ This is The Flourishing Commons, a repository attempting to give language to and
 Read more about Flourishing Commons [here](https://ryanmcgranaghan.substack.com)
 
 # Organization of this repository
-- [Wiki]() - this is the area where collections of links are held
+- [Wiki](https://github.com/rmcgranaghan/Flourishing-Commons/wiki) - this is the area where collections of links are held
 - .
 
 
