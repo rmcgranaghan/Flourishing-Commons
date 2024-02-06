@@ -38,11 +38,12 @@
 - Module 6: Open Science
 
 ## Course 6: Prosociality and Civic Capacities
-- Module 1: Relationality and Plurality
-- Module 2: Building Prosocial Outcomes
-- Module 3: Conflict Transformation
-- Module 4: Civic Capacities for Flourishing
-- Module 5: Democracy and Human Flourishing
+- Module 1: Trust
+- Module 2: Relationality and Plurality
+- Module 3: Building Prosocial Outcomes
+- Module 4: Conflict Transformation
+- Module 5: Civic Capacities for Flourishing
+- Module 6: Democracy and Human Flourishing
 
 ## Course 7: The Art of Flourishing
 - Module 1: Art as an Essential Element in Human Flourishing
