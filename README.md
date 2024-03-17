@@ -3,6 +3,10 @@ This is The Flourishing Commons, a repository attempting to give language to and
 
 Read more about Flourishing Commons [here](https://ryanmcgranaghan.substack.com)
 
+![](/images/dimensions_of_flourishing.png)
+(Figure caption) Dimensions (grey) and emergent elements (red) of flourishing. Explore the interactive and living map of the dimensions of flourishing at [map of flourishing](https://kumu.io/rymc1012/dimensions-of-flourishing)
+
+
 # Organization of this repository
 - [Wiki](https://github.com/rmcgranaghan/Flourishing-Commons/wiki) - this is the area where collections of links are held
 - .
