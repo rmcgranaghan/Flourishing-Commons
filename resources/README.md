@@ -12,7 +12,9 @@ A curated list of writings, studies, works of art, people, and places that bear 
 - __[Frameworks](#frameworks)__
 - __[Libraries or Compilations of Resources](#libraries-or-compilations-of-resources)__
 - __[Reports](#reports)__
+- __[Flourishing Studies](#flourishing-studies)__
 - __[Events and Conferences](#events-and-conferences)__
+- __[Media](#media)__
 - __[Miscellaneous](#miscellaneous)__
 
 
@@ -55,6 +57,11 @@ _This is a heading that holds resources that are part of building a field of flo
 
 
 ## Events and Conferences
+
+## Media
+- [Origins Podcast](https://www.originspodcast.show/). Conversations with thought-leaders across an eclectic mix of disciplines (science, engineering, art, and design), crafted specifically for the category-defying society that we live in. The discourse is always driven toward the questions of what does it mean to flourishing and how do we live well with and for each other.
+- 
+
 
 ## Miscellaneous
 
