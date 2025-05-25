@@ -57,7 +57,7 @@ _This is a heading that holds resources that are part of building a field of flo
 - 
 
 ## Essays and perspectives
-- _[What is education for?](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/)_ The standard should be set higher: meaningful civic participation.
+- _[What is education for?](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/)_ by Danielle Allen. The standard should be set higher: meaningful civic participation.
 - 
 
 ## Events and Conferences
