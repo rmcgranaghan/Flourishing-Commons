@@ -14,6 +14,7 @@ A curated list of writings, studies, works of art, people, and places that bear 
 - __[Reports](#reports)__
 - __[Flourishing Studies](#flourishing-studies)__
 - __[Events and Conferences](#events-and-conferences)__
+- __[Essays and Perspectives](#essays-and-perspectives)__
 - __[Media](#media)__
 - __[Miscellaneous](#miscellaneous)__
 
@@ -37,7 +38,7 @@ An essential read for anyone concerned with human (our and living being) sufferi
 - 
 
 ## Frameworks
-
+- _[Theory of Critical Yeast](https://www.iirp.edu/images/conf_downloads/OAQlEm_On_Mass__Movement_-_The_Theory_of_Critical_Yeast_Lederach_2005.pdf)_ by John Paul Lederach. 
 
 
 ## Libraries or Compilations of Resources
@@ -52,9 +53,12 @@ An essential read for anyone concerned with human (our and living being) sufferi
 ## Flourishing Studies
 _This is a heading that holds resources that are part of building a field of flourishing studies. We need a more robust conception of flourishing for the world we are walking into, a conception furnishing of new multiscale and multi-medium interactions, the ways of making legible when a system is flourishing, and new groups and institutions capable of responding to the call to flourishing. As flourishing is something we must practice and, in that experience, understand, the belief was that the exploration must be situated within the research domain now. We must have it as the philosophy undergirding how we do research and as the focus of research._
 - _[Towards Flourishing Studies: A network lens on flourishing](https://zenodo.org/records/10463898)_ McGranaghan et al. Our grand challenges in science are those for which we cannot ignore the complexity of the world--the interconnectedness of our disciplines, systems, and groups. How do we embrace complexity in the project of scientific discovery? This is perhaps the threshold question for our moment in the Earth and Space Sciences. These authors use the lens of network science in outlining the tools, technologies, processes, and literacies required to embrace complexity and make frontier scientific discovery. They present studies from across contexts that use network science to respond to 'wicked problems' as well as to study social interactions and communities. They explore how networks might provide insight into the flourishing of science and scientific communities, ultimately sharing new network science research into scientific progress and community that suggest principles of flourishing. A conversation is ignited around a new kind of science of 'flourishing studies.
+- [What science can do for democracy: a complexity science approach](https://www.nature.com/articles/s41599-020-0518-0). An exploration of how to understand democracy (a process integrally related to flourishing) from the perspective of complexity science.
 - 
 
-
+## Essays and perspectives
+- _[What is education for?](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/)_The standard should be set higher: meaningful civic participation.
+- 
 
 ## Events and Conferences
 
