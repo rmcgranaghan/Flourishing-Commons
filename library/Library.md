@@ -15,6 +15,7 @@ A curated list of writings, studies, works of art, people, and places that bear 
 - __[Flourishing Studies](#flourishing-studies)__
 - __[Events and Conferences](#events-and-conferences)__
 - __[Essays and Perspectives](#essays-and-perspectives)__
+- __[Courses and Tutorials](#courses-and-tutorials)__
 - __[Media](#media)__
 - __[Miscellaneous](#miscellaneous)__
 
@@ -38,7 +39,9 @@ An essential read for anyone concerned with human (our and living being) sufferi
 - 
 
 ## Frameworks
-- _[Theory of Critical Yeast](https://www.iirp.edu/images/conf_downloads/OAQlEm_On_Mass__Movement_-_The_Theory_of_Critical_Yeast_Lederach_2005.pdf)_ by John Paul Lederach. 
+- _[Theory of Critical Yeast](https://www.iirp.edu/images/conf_downloads/OAQlEm_On_Mass__Movement_-_The_Theory_of_Critical_Yeast_Lederach_2005.pdf)_ by John Paul Lederach.
+- _[Aristotelian Flourishing and Contemporary Philosophical Theories of Wellbeing](https://link.springer.com/article/10.1007/s10902-024-00723-0)_ by Symons and VanderWeele. An analysis of Aristotle’s notion of eudaimonia and consider to what extent it can be categorized within the framework of contemporary philosophical theories of wellbeing.
+- 
 
 
 ## Libraries or Compilations of Resources
@@ -48,7 +51,9 @@ An essential read for anyone concerned with human (our and living being) sufferi
 
 
 ## Reports
-
+- .
+- _[The Global Flourishing Study: Study Profile and Initial Results on Flourishing](https://www.nature.com/articles/s44220-025-00423-5)_ by VanderWeele et al. The Global Flourishing Study is a longitudinal panel study of over 200,000 participants in 22 geographically and culturally diverse countries, spanning all six populated continents, with nationally representative sampling and intended annual survey data collection for 5 years to assess numerous aspects of flourishing and its possible determinants. The study is intended to expand our knowledge of the distribution and determinants of flourishing around the world.
+- 
 
 ## Flourishing Studies
 _This is a heading that holds resources that are part of building a field of flourishing studies. We need a more robust conception of flourishing for the world we are walking into, a conception furnishing of new multiscale and multi-medium interactions, the ways of making legible when a system is flourishing, and new groups and institutions capable of responding to the call to flourishing. As flourishing is something we must practice and, in that experience, understand, the belief was that the exploration must be situated within the research domain now. We must have it as the philosophy undergirding how we do research and as the focus of research._
@@ -61,6 +66,11 @@ _This is a heading that holds resources that are part of building a field of flo
 - 
 
 ## Events and Conferences
+
+## Courses and Tutorials
+- [“Art and Science of Human Flourishing”](https://centerhealthyminds.org/the-art-and-science-of-human-flourishing-course). This semester-long academic and skills-based course supports student mental health, well-being and overall flourishing.
+- 
+
 
 ## Media
 - [Origins Podcast](https://www.originspodcast.show/). Conversations with thought-leaders across an eclectic mix of disciplines (science, engineering, art, and design), crafted specifically for the category-defying society that we live in. The discourse is always driven toward the questions of what does it mean to flourishing and how do we live well with and for each other.
