@@ -74,7 +74,8 @@ _This is a heading that holds resources that are part of building a field of flo
 
 ## Media
 - [Origins Podcast](https://www.originspodcast.show/). Conversations with thought-leaders across an eclectic mix of disciplines (science, engineering, art, and design), crafted specifically for the category-defying society that we live in. The discourse is always driven toward the questions of what does it mean to flourishing and how do we live well with and for each other.
-- 
+- [On Being Podcast](https://onbeing.org/). On Being is a conversation that has been building for over two decades with wise and graceful lives — across spiritual inquiry and science, social healing and the arts. 
+
 
 
 ## Miscellaneous
