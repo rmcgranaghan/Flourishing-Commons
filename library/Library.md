@@ -36,6 +36,7 @@ An essential read for anyone concerned with human (our and living being) sufferi
 
 ## Communities and Organizations
 - [Flourishing Salons](https://ryanmcgranaghan.substack.com/p/an-evening-of-encountering-flourishing). Pluralistic conversations and a modern reimagining of the salons of the 17th and 18th centuries. Founded and run by Ryan McGranaghan, these are held in cooperation with organizations like the Cultural Programs of the National Academy of Science and are a way to grow a new Community of Practice that operates in the spaces between fields of science, art, engineering, design, culture, public and private life. They are the live counerpart to the living, cross-medium, active and asynchronous conversations that characterize a commons.
+- ["Socio-Environmental Knowledge Commons” (SEEKCommons)](https://seekcommons.org/). How can Open Science (OS) contribute to the present and future of socio-environmental research? Why is this question worth pursuing through a distributed network of STS researchers, OS practitioners, and socio-environmental researchers working with climate-impacted communities? The U.S. National Science Foundation “Socio-Environmental Knowledge Commons” (SEEKCommons) project seeks to respond to these questions by promoting the “commons” in science and technology with an emphasis on collaborative socio-environmental research.
 - 
 
 ## Frameworks
