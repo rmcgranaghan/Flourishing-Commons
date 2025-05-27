@@ -32,23 +32,28 @@ A curated list of writings, studies, works of art, people, and places that bear 
 - [Creating Capabilities: The Human Development Approach](https://www.goodreads.com/book/show/10549868-creating-capabilities) by Martha Nussbaum. A treatise on social Justice whose position begins from the question: What are people really able to do and to be? It lays out the philosophical framework and then proceeds to place it in context historically and in the modern world. Strong connections to Amartya Sen and Thomas Rawls before it and into individuals like Danielle Allen and Ai-Jen Poo after. 
 An essential read for anyone concerned with human (our and living being) suffering
 - [Justice by Means of Democracy](https://www.goodreads.com/book/show/62707936-justice-by-means-of-democracy) by Danielle Allen
+- 
 
 
 ## Communities and Organizations
 - [Flourishing Salons](https://ryanmcgranaghan.substack.com/p/an-evening-of-encountering-flourishing). Pluralistic conversations and a modern reimagining of the salons of the 17th and 18th centuries. Founded and run by Ryan McGranaghan, these are held in cooperation with organizations like the Cultural Programs of the National Academy of Science and are a way to grow a new Community of Practice that operates in the spaces between fields of science, art, engineering, design, culture, public and private life. They are the live counerpart to the living, cross-medium, active and asynchronous conversations that characterize a commons.
+- [Mind & Life Institute](https://www.mindandlife.org/). Bridging science and contemplative wisdom to foster insight and inspire action toward flourishing. Established after the first Mind and Life Dialogue in 1987, a meeting of three visionaries: Tenzin Gyatso, the 14th Dalai Lama—the spiritual leader of the Tibetan people and a global advocate for compassion; Francisco Varela, a scientist and philosopher; and Adam Engle, a lawyer and entrepreneur.
 - ["Socio-Environmental Knowledge Commons” (SEEKCommons)](https://seekcommons.org/). How can Open Science (OS) contribute to the present and future of socio-environmental research? Why is this question worth pursuing through a distributed network of STS researchers, OS practitioners, and socio-environmental researchers working with climate-impacted communities? The U.S. National Science Foundation “Socio-Environmental Knowledge Commons” (SEEKCommons) project seeks to respond to these questions by promoting the “commons” in science and technology with an emphasis on collaborative socio-environmental research.
+- [Greater Good Science Center ](https://greatergood.berkeley.edu/) The Greater Good Science Center studies the psychology, sociology, and neuroscience of well-being and teaches skills that foster a thriving, resilient, and compassionate society.
+- [The Human Flourishing Program](https://hfh.fas.harvard.edu/). The Human Flourishing Program promotes human flourishing and develops systematic approaches to the synthesis of knowledge across disciplines. It exists within Harvard's Institute for Quantitative Social Science studies, founded in 2016.
 - 
 
 ## Frameworks
 - _[Theory of Critical Yeast](https://www.iirp.edu/images/conf_downloads/OAQlEm_On_Mass__Movement_-_The_Theory_of_Critical_Yeast_Lederach_2005.pdf)_ by John Paul Lederach.
 - _[Aristotelian Flourishing and Contemporary Philosophical Theories of Wellbeing](https://link.springer.com/article/10.1007/s10902-024-00723-0)_ by Symons and VanderWeele. An analysis of Aristotle’s notion of eudaimonia and consider to what extent it can be categorized within the framework of contemporary philosophical theories of wellbeing.
+- _[Teaching the Science of Human Flourishing, Unlocking Connection, Positivity, and Resilience for the Greater Good](https://pmc.ncbi.nlm.nih.gov/articles/PMC8175826/)_. A framework for teaching the science and practice of human flourishing grounded in connection, positivity, and resilience (CPR) based on a synthesis of theoretical frameworks and observations and input from a global sample of learners enrolled in an online course. Also describes a **Course** (fits in the category below)
 - 
 
 
 ## Libraries or Compilations of Resources
 - [Flourishing Commons](https://ryanmcgranaghan.substack.com/about). A newsletter attempting to give language to and be a space for knowledge and cultural commons. Posts are musings about the flourishing of these commons across science, community, writing, design, complexity, engineering, music and the intriguing echoes between them
 - [Flourishing Salon Series: The Knowledge Commons and the Future of Democracy (notes)](https://docs.google.com/document/d/1S5KjnTJ6O8WuNUcg0wFfqXLf_ADniJOT1OLocN7i7Vc/edit?usp=sharing)
-- 
+- [The Mind & Life Digital Library](https://www.mindandlife.org/digital-library/). For over three decades, Mind & Life has hosted Dialogues and Conversations with His Holiness the Dalai Lama and leading scientists, scholars, and contemplatives to explore key questions at the intersection of science and contemplative wisdom. Below you will find recordings of these timeless conversations with deep relevance for our world today. The library provides a unique window into the art of interdisciplinary dialogue, while tracing the evolution of the field of contemplative science.
 
 
 ## Reports
@@ -70,12 +75,14 @@ _This is a heading that holds resources that are part of building a field of flo
 
 ## Courses and Tutorials
 - [“Art and Science of Human Flourishing”](https://centerhealthyminds.org/the-art-and-science-of-human-flourishing-course). This semester-long academic and skills-based course supports student mental health, well-being and overall flourishing.
+
 - 
 
 
 ## Media
 - [Origins Podcast](https://www.originspodcast.show/). Conversations with thought-leaders across an eclectic mix of disciplines (science, engineering, art, and design), crafted specifically for the category-defying society that we live in. The discourse is always driven toward the questions of what does it mean to flourishing and how do we live well with and for each other.
-- [On Being Podcast](https://onbeing.org/). On Being is a conversation that has been building for over two decades with wise and graceful lives — across spiritual inquiry and science, social healing and the arts. 
+- [On Being Podcast](https://onbeing.org/). On Being is a conversation that has been building for over two decades with wise and graceful lives — across spiritual inquiry and science, social healing and the arts.
+- [Greater Good magazine](https://ggsc.berkeley.edu/). Greater Good magazine turns scientific research into stories, tips, and tools for a happier life and a more compassionate society.
 
 
 
