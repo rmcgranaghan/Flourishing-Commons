@@ -37,6 +37,7 @@ An essential read for anyone concerned with human (our and living being) sufferi
 
 ## Communities and Organizations
 - [Flourishing Salons](https://ryanmcgranaghan.substack.com/p/an-evening-of-encountering-flourishing). Pluralistic conversations and a modern reimagining of the salons of the 17th and 18th centuries. Founded and run by Ryan McGranaghan, these are held in cooperation with organizations like the Cultural Programs of the National Academy of Science and are a way to grow a new Community of Practice that operates in the spaces between fields of science, art, engineering, design, culture, public and private life. They are the live counerpart to the living, cross-medium, active and asynchronous conversations that characterize a commons.
+- [On Being](https://onbeing.org/). On Being is a conversation that has been building for over two decades with wise and graceful lives — across spiritual inquiry and science, social healing and the arts.
 - [Mind & Life Institute](https://www.mindandlife.org/). Bridging science and contemplative wisdom to foster insight and inspire action toward flourishing. Established after the first Mind and Life Dialogue in 1987, a meeting of three visionaries: Tenzin Gyatso, the 14th Dalai Lama—the spiritual leader of the Tibetan people and a global advocate for compassion; Francisco Varela, a scientist and philosopher; and Adam Engle, a lawyer and entrepreneur.
 - ["Socio-Environmental Knowledge Commons” (SEEKCommons)](https://seekcommons.org/). How can Open Science (OS) contribute to the present and future of socio-environmental research? Why is this question worth pursuing through a distributed network of STS researchers, OS practitioners, and socio-environmental researchers working with climate-impacted communities? The U.S. National Science Foundation “Socio-Environmental Knowledge Commons” (SEEKCommons) project seeks to respond to these questions by promoting the “commons” in science and technology with an emphasis on collaborative socio-environmental research.
 - [Greater Good Science Center ](https://greatergood.berkeley.edu/) The Greater Good Science Center studies the psychology, sociology, and neuroscience of well-being and teaches skills that foster a thriving, resilient, and compassionate society.
@@ -69,7 +70,7 @@ _This is a heading that holds resources that are part of building a field of flo
 
 ## Essays and perspectives
 - _[What is education for?](https://www.bostonreview.net/forum/danielle-allen-what-is-education-for/)_ by Danielle Allen. The standard should be set higher: meaningful civic participation.
-- 
+- _[Better Conversation Guide](https://onbeing.org/better-conversations-guide/)_. From the On Being Foundation, a guide to help ground and animate a gathering of friends or strangers in a conversation that might take place over weeks or months. It provides a flexible roadmap you can adapt for your group and intentions.
 
 ## Events and Conferences
 
@@ -81,7 +82,7 @@ _This is a heading that holds resources that are part of building a field of flo
 
 ## Media
 - [Origins Podcast](https://www.originspodcast.show/). Conversations with thought-leaders across an eclectic mix of disciplines (science, engineering, art, and design), crafted specifically for the category-defying society that we live in. The discourse is always driven toward the questions of what does it mean to flourishing and how do we live well with and for each other.
-- [On Being Podcast](https://onbeing.org/). On Being is a conversation that has been building for over two decades with wise and graceful lives — across spiritual inquiry and science, social healing and the arts.
+- [On Being Podcast](https://onbeing.org/series/podcast/). From host Krista Tippett and part of the On Being Foundation, these are episodes from a 20-year archive that provide wisdom to replenish and orient in a tender, tumultuous time to be alive; spiritual inquiry, science, social healing, and poetry; conversations to live by.
 - [Greater Good magazine](https://ggsc.berkeley.edu/). Greater Good magazine turns scientific research into stories, tips, and tools for a happier life and a more compassionate society.
 
 
